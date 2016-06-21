@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrenyCalc</string>
+    <string name="calculate">Calculate</string>
+    <string name="action_info">Info</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_currency_text">Edit Currency</string>
+</resources>
