@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CurrenyCalc.iml" filepath="$PROJECT_DIR$/CurrenyCalc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kompassapp/kompassapp.iml" filepath="$PROJECT_DIR$/kompassapp/kompassapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waehrungrechner/app.iml" filepath="$PROJECT_DIR$/waehrungrechner/app.iml" />
     </modules>
   </component>
 </project>
